@@ -1,3 +1,5 @@
-# Galeria
+# Galeria NFT
 
-Uma pequena galeria baseado no trabalho de https://github.com/matheusbattisti.
+Uma pequena galeria baseado NFT'S usando HTML/SCSS
+
+<a href="https://andre26z.github.io/Galeria/"> link da página </a>
